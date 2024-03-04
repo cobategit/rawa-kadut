@@ -113,7 +113,7 @@ const Section = () => {
         />
       </div>
       {/* section three & fajar bio */}
-      <div className='flex w-full flex-col space-y-6 md:my-20 pl-16 md:w-[80%] lg:w-[45%]'>
+      <div className='flex w-full flex-col space-y-6 md:my-20 pl-28 md:w-[90%] lg:w-[50%]'>
         <div className='flex flex-col-reverse items-start justify-around md:flex-row'>
           <div className='flex max-w-full flex-col space-y-10 border-t-[0.1rem] border-t-black pr-0 pt-8 md:max-w-xl md:border-r-[0.1rem] md:border-t-0 md:border-r-black md:pr-8 md:pt-0'>
             {sectionTextThree.map((item, index) => (
